@@ -1,0 +1,5 @@
+# Only track index.html (the report)
+*
+!.gitignore
+!index.html
+!CNAME
